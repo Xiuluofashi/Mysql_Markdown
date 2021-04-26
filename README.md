@@ -1,2 +1,2 @@
 Mysql_Markdown
-这一个可以将Mysql数据库表循环遍历成Markdonw的小工具
+这是一个可以将Mysql数据库表循环遍历成Markdonw格式文件的小工具~
